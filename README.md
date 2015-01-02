@@ -1,4 +1,4 @@
-# Ruby on Rails Tutorial: "hello, world!"
+# Ruby on Rails Tutorial: "Toy App: Twitter!"
 
 This is the second application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
